@@ -94,6 +94,7 @@ public:
     }
 };
 
+
 /// \brief Structure for recording color in RGB format
 struct RGB
 {
@@ -146,6 +147,7 @@ public:
         return RGB {0, 0, 255};
     }
 };
+
 
 /// \brief Class of red triangle
 /// \details The class is a combination of a triangle shape and a red color. Redefined methods for getting the name
